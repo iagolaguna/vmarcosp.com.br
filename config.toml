@@ -6,7 +6,7 @@ DisqusShortname = "YOUR_SHORT_NAME_HERE"
 Copyright = "Copyright - 2017"
 canonifyurls = true
 theme = "casper"
-publishDir = "docs"
+publishDir = "public"
 
 [params]
   description = "Full-Stack Web Developer "
