@@ -1,4 +1,4 @@
-BaseUrl= "http://example.com/"
+BaseUrl= "https://vmarcospblog.netlify.com/"
 LanguageCode= "pt-br"
 Title= "Marcos Vinicius"
 paginate = 5
