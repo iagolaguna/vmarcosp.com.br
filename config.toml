@@ -23,15 +23,16 @@ publishDir = "public"
   cover = "images/bg-blur.jpeg"
   logo = "images/logo.svg"
   footerLogo = "images/me.png"
-  customCss = ["css/nav-custom.css"]
+  customCss = ["css/nav-custom.css","css/icons-custom.css"]
 
   githubName = "vmarcosp"
-  # twitterName = "vmarcosp"
   linkedinName = "marcos-vinicius-oliveira-20baa3129"
+  codepenName = "vmarcosp"
 
   hideHUGOSupport = false
 
   hjsStyle = "default"
+  # twitterName = "vmarcosp"
 
   [params.social]
     # twitter = "your_twitter"
