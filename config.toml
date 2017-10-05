@@ -1,4 +1,4 @@
-BaseUrl= "https://vmarcospblog.netlify.com/"
+BaseUrl= "http://vmarcosp.com.br/"
 LanguageCode= "pt-BR"
 Title= "Marcos Vinicius"
 paginate = 5
@@ -14,7 +14,7 @@ publishDir = "public"
 
   author = "Marcos Vinicius de Oliveira"
   authorlocation = "Blumenau, Brasil"
-  authorwebsite = "https://vmarcospblog.netlify.com/"
+  authorwebsite = "http://vmarcosp.com.br/"
   authorbio= "A Developer"
 
   googleAnalyticsUserID = "UA-79101-12"
@@ -28,7 +28,7 @@ publishDir = "public"
   githubName = "vmarcosp"
   linkedinName = "marcos-vinicius-oliveira-20baa3129"
   codepenName = "vmarcosp"
-
+  comments = true
   hideHUGOSupport = false
 
   hjsStyle = "default"
