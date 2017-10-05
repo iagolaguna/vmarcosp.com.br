@@ -1,8 +1,8 @@
 BaseUrl= "https://vmarcospblog.netlify.com/"
-LanguageCode= "pt-br"
+LanguageCode= "pt-BR"
 Title= "Marcos Vinicius"
 paginate = 5
-DisqusShortname = "YOUR_SHORT_NAME_HERE"
+DisqusShortname = "vmarcosp"
 Copyright = "Copyright - 2017"
 canonifyurls = true
 theme = "casper"
@@ -12,16 +12,17 @@ publishDir = "public"
   description = "Full-Stack Web Developer "
   metadescription = "Blog de um maker bug"
 
-  author = "Valère JEANTET"
-  authorlocation = "Paris, France"
-  authorwebsite = "http://vjeantet.fr"
-  authorbio= "my bio"
+  author = "Marcos Vinicius de Oliveira"
+  authorlocation = "Blumenau, Brasil"
+  authorwebsite = "https://vmarcospblog.netlify.com/"
+  authorbio= "A Developer"
 
   googleAnalyticsUserID = "UA-79101-12"
   RSSLink = "http://feeds.feedburner.com/..."
 
   cover = "images/background.jpg"
   logo = "images/logo.svg"
+  footerLogo = "images/me.png"
   customCss = ["css/nav-custom.css"]
 
   githubName = "vmarcosp"

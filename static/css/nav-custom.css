@@ -12,6 +12,10 @@
 	float:left;
 }
 
+.logo-custom:hover{
+	background: transparent!important;
+}
+
 @media screen and (max-width:600px){
 	.logo-custom > img{
 		width:200px;
