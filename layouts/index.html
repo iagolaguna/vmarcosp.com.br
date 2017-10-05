@@ -10,7 +10,7 @@
 <header class="main-header no-cover">
 {{end}}
 
-    <nav style="z-index:10" class="main-nav overlay clearfix">
+    <nav  class="main-nav overlay clearfix">
         {{ if .Site.Params.logo }}
             <a class="logo-custom" href="{{ .Permalink }}"><img src="{{ .Site.Params.logo  | relURL}}" alt="Blog Logo" /></a>
         {{end}}
@@ -24,15 +24,14 @@
             {{end}}
         {{end}}
     </nav>
-    <div class="vertical" style="z-index:10">
-        <div class="main-header-content inner" style="z-index:10">
+    <div class="vertical" >
+        <div class="main-header-content inner" >
             {{ partial "social.html" . }}
             <h1 class="page-title">{{ .Site.Title }}</h1>
             <h2 class="page-description">{{ .Site.Params.description }}</h2>
         </div>
     </div>
 		<a class="scroll-down icon-arrow-left" href="#content"><span class="hidden">Scroll Down</span></a>
-		<div class="overlay-background"></div>
 </header>
 
 

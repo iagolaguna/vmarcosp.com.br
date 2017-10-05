@@ -20,13 +20,13 @@ publishDir = "public"
   googleAnalyticsUserID = "UA-79101-12"
   RSSLink = "http://feeds.feedburner.com/..."
 
-  cover = "images/background.jpg"
+  cover = "images/bg-blur.jpeg"
   logo = "images/logo.svg"
   footerLogo = "images/me.png"
   customCss = ["css/nav-custom.css"]
 
   githubName = "vmarcosp"
-  twitterName = "vmarcosp"
+  # twitterName = "vmarcosp"
   linkedinName = "marcos-vinicius-oliveira-20baa3129"
 
   hideHUGOSupport = false
@@ -34,4 +34,4 @@ publishDir = "public"
   hjsStyle = "default"
 
   [params.social]
-    twitter = "your_twitter"
+    # twitter = "your_twitter"
