@@ -1,0 +1,25 @@
+.overlay-background{
+	background:rgba(0,0,0,.5);
+	height: 100%;
+	position: absolute;
+	width:100%;
+	top:0;
+	left:0;
+}
+
+/* Navbar... */
+.logo-custom{
+	float:left;
+}
+
+@media screen and (max-width:600px){
+	.logo-custom > img{
+		width:200px;
+	}
+}
+
+@media screen and (min-width:600px) and (max-width:900px){
+	.logo-custom > img{
+		width:250px;
+	}
+}

@@ -11,23 +11,25 @@ publishDir = "public"
 [params]
   description = "Full-Stack Web Developer "
   metadescription = "Blog de um maker bug"
-  cover = "images/background.jpg"
+
   author = "Valère JEANTET"
   authorlocation = "Paris, France"
   authorwebsite = "http://vjeantet.fr"
   authorbio= "my bio"
-  logo = "images/logo.svg"
+
   googleAnalyticsUserID = "UA-79101-12"
   RSSLink = "http://feeds.feedburner.com/..."
+
+  cover = "images/background.jpg"
+  logo = "images/logo.svg"
+  customCss = ["css/nav-custom.css"]
+
   githubName = "vmarcosp"
   twitterName = "vmarcosp"
   linkedinName = "marcos-vinicius-oliveira-20baa3129"
-  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+
   hideHUGOSupport = false
-  
-  # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
-  # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
-  # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
+
   hjsStyle = "default"
 
   [params.social]

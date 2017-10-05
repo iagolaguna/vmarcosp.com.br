@@ -12,7 +12,7 @@
 
     <nav style="z-index:10" class="main-nav overlay clearfix">
         {{ if .Site.Params.logo }}
-            <a class="blog-logo" href="{{ .Permalink }}"><img src="{{ .Site.Params.logo  | relURL}}" alt="Blog Logo" /></a>
+            <a class="logo-custom" href="{{ .Permalink }}"><img src="{{ .Site.Params.logo  | relURL}}" alt="Blog Logo" /></a>
         {{end}}
         {{ if .Site.Menus.main }}
             <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
@@ -43,14 +43,3 @@
 </main>
 
 {{ partial "footer.html" . }}
-
-<style>
-	.overlay-background{
-		background:rgba(0,0,0,.5);
-		height: 100%;
-		position: absolute;
-		width:100%;
-		top:0;
-		left:0;
-	}
-</style>
