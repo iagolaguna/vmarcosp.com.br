@@ -1,5 +1,5 @@
 +++
-title = "Criando Projeto Vuejs"
+title = "Criar projeto VueJS utilizando vue-cli"
 date = 2017-10-07T11:30:02-03:00
 image = "images/posts/criando-projeto-vuejs/vuejs-vue-gs.png"
 tags = ["javascript","vuejs"]
