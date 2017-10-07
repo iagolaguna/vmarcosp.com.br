@@ -109,6 +109,7 @@ Se tudo der certo a aplicação já deve estar rodando, acesse no seu browser **
 Bom galera, acho que é isso. Espero tenha ajudado, pretendo fazer muito mais posts sobre vue.
 Até mais :)
 
-> *<span class="phrase-quote"><span>"</span></span>Se tu o desejas, podes voar, só tens de confiar muito em ti.*
-
-> Steve Jobs
+> <div class="phrase"> 
+		<span class="text"> <span>"</span> Se tu o desejas, podes voar, só tens de confiar muito em ti.</span>
+		<span class="author"> - Steve Jobs</span>
+	</div>

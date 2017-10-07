@@ -10,8 +10,6 @@ Bom, vamos ao que interessa! Sempre tive vontade de ter um blog, gosto muito de 
 
 Então pessoal acho que é isso, espero que isso seja só o começo de uma longa série de posts. Até mais!
 
-<!-- > <span class="phrase"><span>"</span>*Toda reforma interior e toda mudança para melhor dependem exclusivamente da aplicação do nosso próprio esforço*.</span> -->
-
 > <div class="phrase"> 
 		<span class="text"> <span>"</span> Toda reforma interior e toda mudança para melhor dependem exclusivamente da aplicação do nosso próprio esforço</span>
 		<span class="author"> - Immanuel Kant</span>
