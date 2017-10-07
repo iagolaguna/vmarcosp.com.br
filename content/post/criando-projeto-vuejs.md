@@ -2,6 +2,8 @@
 title = "Criando Projeto Vuejs"
 date = 2017-10-07T11:30:02-03:00
 image = "images/posts/criando-projeto-vuejs/vuejs-vue-gs.png"
+tags = ["javascript","vuejs"]
+categories = ["Front-End"]
 +++
 
 Fala pessoal, tudo certo ? Esse vai ser o primeiro post do blog pra valer mesmo rs. Não sei ainda se a maioria dos posts vão ser nesse formato, vou descobrindo aos poucos. 
