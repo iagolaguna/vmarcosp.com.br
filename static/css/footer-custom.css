@@ -1,0 +1,14 @@
+.site-footer{
+	padding:0;
+}
+
+.custom-footer{
+	font-size:16px;
+	color:#BBC7CC;
+	display: flex;
+	justify-content: space-between;
+	padding:1rem;
+}
+
+.custom-footer > .made-with {
+}
