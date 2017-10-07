@@ -1,6 +1,7 @@
 +++
 title= "Início do blog"
 date= 2017-10-06T23:50:24-03:00
+image = "images/posts/inicio-do-blog/capa.jpg"
 +++
 
 E aí pessoal, tudo certo ? Antes de falar sobre esse blog eu acho que seria bom eu me apresentar :) . Meu nome é **Marcos Vinicius de Oliveira**, sou desenvolvedor **Full-Stack** com foco em desenvolvimento **Front-End**, moro em Blumenau, Santa Catarina e atualmente trabalho na [HBSIS](http://hbsis.com.br/). 
