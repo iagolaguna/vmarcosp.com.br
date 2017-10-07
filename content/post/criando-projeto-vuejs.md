@@ -10,7 +10,7 @@ Fala pessoal, tudo certo ? Esse vai ser o primeiro post do blog pra valer mesmo 
 
 Pra quem me conhece, sabe que sou um amante de [VueJS](https://vuejs.org/). Posso dizer que foi amor à primeira vista, mas acho que essa história toda pode ficar pra um próximo post :). Pensando nisso decidi criar um post explicando como criar um projeto vue que utilize webpack, eslint e etc. Bom vamos ao que interessa!
 
-> *Obs.: O foco deste post é ensinar como criar o projeto utilizando vue-cli, estou presumindo que você conheça o básico das tecnologias envolvidas (npm, webpack e etc.).*
+> *Obs.: O foco deste post é ensinar como criar o projeto utilizando vue-cli, estou presumindo que você conheça o básico das tecnologias envolvidas (npm, webpack e etc).*
 
 ## vue-cli
 
@@ -22,7 +22,7 @@ A forma mais simples de criar um projeto vue é utilizando o [*vue-cli*](https:/
 - [browserify-simple](https://github.com/vuejs-templates/browserify-simple)
 - [simple](https://github.com/vuejs-templates/simple)
 
-Eu gosto muito dos templates que utilizam wepback. Neste post iremos utilizar o *webpack*, quem sabe em outro post eu fale um pouco do *webpack-simple*.
+Eu gosto muito dos templates que utilizam wepback. Neste post iremos utilizar o template *webpack*, quem sabe em outro post eu fale um pouco do template *webpack-simple*.
 
 ## Instalação
 
@@ -30,7 +30,7 @@ Para instalar o *vue-cli* vamos utilizar o **npm**. Execute o seguinte comando n
 ```sh
 npm i -g vue-cli
 ```
-Esse comando irá instalalr o vue-cli globalmente no seu computador. Vamos testar se ele já está funciando utilizando o comando:
+Esse comando irá instalalr o vue-cli globalmente no seu computador. Vamos testar se ele já está funcionando utilizando o comando:
 ```sh
 vue --version
 ```
@@ -53,6 +53,7 @@ vue init webpack .
 
 Ele vai exibir uma mensagem de download e logo fará algumas perguntas que são necessárias pra configuração do projeto.
 A primeira, segunda e terceira perguntas são simples apenas aperte *enter*.
+Em seguida terá mais algumas perguntas:
 
 - 4ª pergunta:
 
@@ -85,7 +86,7 @@ Setup unit tests with Karma + Mocha? (Y/n)
 Setup e2e tests with Nightwatch? (Y/n) 
 ```
 
-Iremos deixar o ambiente configurado para tests, mas não falaremos sobre eles ainda, farei um post apenas para falar sobre testes com VueJS.
+Vamos deixar o ambiente configurado para tests, mas não falaremos sobre eles ainda, farei um post apenas para falar sobre testes com VueJS.
 
 Pronto! O projeto já está criado, agora vamos intalar todas as dependências do projeto com o comando:
 ```sh
