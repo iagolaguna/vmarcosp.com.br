@@ -94,6 +94,7 @@ npm install
 ```
 
 Feito isso, podemos observar a seguinte estrutura de pastas gerado pelo vue-cli:
+
 ![Imagem](/images/posts/criando-projeto-vuejs/estrutura-pastas.png)
 
 ## Rodando o projeto
