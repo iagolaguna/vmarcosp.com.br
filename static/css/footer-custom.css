@@ -10,5 +10,19 @@
 	padding:1rem;
 }
 
-.custom-footer > .made-with {
+/* Button back to top */
+.btn-back-top{
+	display: flex;
+	-ms-flex-align: center;
+	align-items: center;
+	justify-content: center;
+	width:30px;
+	border-radius: 2px;
+	height: 30px;
+	border:none;
+	background: rgba(187,199,204,.5);
+	position: fixed;
+	bottom:40px;
+	right:15px;
+	color:white;
 }
