@@ -24,5 +24,7 @@
 	position: fixed;
 	bottom:40px;
 	right:15px;
+	z-index: 10;
 	color:white;
+	outline: none;
 }

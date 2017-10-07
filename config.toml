@@ -24,7 +24,7 @@ publishDir = "public"
   logo = "images/logo.svg"
   footerLogo = "images/me.png"
   customCss = ["css/nav-custom.css","css/icons-custom.css","css/footer-custom.css"]
-
+  customJs = ["js/index.js"]
   githubName = "vmarcosp"
   linkedinName = "marcos-vinicius-oliveira-20baa3129"
   codepenName = "vmarcosp"
