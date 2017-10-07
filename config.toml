@@ -17,7 +17,7 @@ publishDir = "public"
   authorwebsite = "http://vmarcosp.com.br/"
   authorbio= "A Developer"
 
-  googleAnalyticsUserID = "UA-107728478-1 "
+  googleAnalyticsUserID = "UA-107728478-1"
   RSSLink = "http://feeds.feedburner.com/..."
 
   cover = "images/bg-blur.jpeg"
