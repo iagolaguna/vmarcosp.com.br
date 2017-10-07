@@ -22,23 +22,8 @@
 	}
 
 	ButtonBackToTop.prototype._toTop = function () {
-		scrollTo(0, 100);
+		$('html, body').animate({ scrollTop: 0 }, 'slow');
 	}
 
-
-	function scrollTo(to, duration) {
-		var $body = document.body;
-
-		if (duration < 0) return;
-
-		var difference = to - $body.scrollTop;
-		var perTick = difference / duration * 2;
-
-		setTimeout(function () {
-			$body.scrollTop = $body.scrollTop + perTick;
-			scrollTo(to, duration - 2);
-		}, 10);
-
-	}
 
 }(window));
