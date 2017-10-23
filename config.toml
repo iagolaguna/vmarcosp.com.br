@@ -10,11 +10,11 @@ publishDir = "public"
 
 [params]
   description = "Full-Stack Web Developer "
-  metadescription = "Blog de um maker bug"
+  metadescription = ""
 
   author = "Marcos Vinicius de Oliveira"
   authorlocation = "Blumenau, Brasil"
-  authorwebsite = "http://vmarcosp.com.br/"
+  authorwebsite = "https://vmarcosp.com.br/"
   authorbio= "A Developer"
 
   googleAnalyticsUserID = "UA-107728478-1"
